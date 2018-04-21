@@ -7,7 +7,7 @@ You should install Node using `nvm` as it will help a lot to manage your node ve
 Install Xcode or the 
 <a href="http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/" target="_blank">Command Line Tools</a>
 
-##### Install NVM:
+#### Install NVM:
 How to install <a href="https://github.com/creationix/nvm#install-script" target="_blank">NVM</a>
 
 After installing, please close and re-open your terminal or you will still get `command not found` when you enter `nvm`. 
@@ -25,7 +25,7 @@ node --version # prints 8.6.0 and you are all set
 There you go, you have Node.js installed. NVM makes it really easy to manage packages.
 
 ### Windows
-Use the installer on the [NodeJS Site](https://nodejs.org/en/download/){:target="_blank"} since `nvm` is not officially maintained for windows.
+Use the installer on the <a href="https://nodejs.org/en/download/" target="_blank">NodeJS Site</a> since `nvm` is not officially maintained for windows.
 
 ## Pick your own editor:
 Any text editor will work. The most popular editors/IDEs typically used are:
