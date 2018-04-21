@@ -27,22 +27,21 @@ There you go, you have Node.js installed. NVM makes it really easy to manage pac
 ### Windows
 Use the installer on the [NodeJS Site](https://nodejs.org/en/download/){:target="_blank"} since `nvm` is not officially maintained for windows.
 
-### Pick your own editor:
+## Pick your own editor:
 Any text editor will work. The most popular editors/IDEs typically used are:
 
-[Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"}
+<a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code</a>
 
-[Sublime Text](https://www.sublimetext.com/3){:target="_blank"}
+<a href="https://www.sublimetext.com/3" target="_blank">Sublime Text</a>
 Don't get the dev build as that might not work as intended considering it is a development build.
 
-[Atom](https://atom.io/){:target="_blank"}
+<a href="https://atom.io/" target="_blank">Atom</a>
 After clicking on the link, you will see the latest version for mac there but for other OS users, click on other platforms button and pick the download that matches your OS.
 
-[WebStorm](https://www.jetbrains.com/webstorm/download/){:target="_blank"}
+<a href="https://www.jetbrains.com/webstorm/download/" target="_blank">WebStorm</a>
 Please note, WebStorm has a 30 days trial so you have to pay for it after. Although if you are a student, its free. Here is the [link](https://www.jetbrains.com/student/){:target="_blank"} to more information on that.
 
 ## Browser:
 Again any modern browser should work but in order to replicate everything that I'm doing, please install Google Chrome:
 
-[Google Chrome](https://www.google.com/chrome/browser/desktop/index.html){:target="_blank"}
-
+<a href="https://www.google.com/chrome/browser/desktop/index.html" target="_blank">Google Chrome</a>
