@@ -39,7 +39,7 @@ Don't get the dev build as that might not work as intended considering it is a d
 After clicking on the link, you will see the latest version for mac there but for other OS users, click on other platforms button and pick the download that matches your OS.
 
 <a href="https://www.jetbrains.com/webstorm/download/" target="_blank">WebStorm</a>
-Please note, WebStorm has a 30 days trial so you have to pay for it after. Although if you are a student, its free. Here is the [link](https://www.jetbrains.com/student/){:target="_blank"} to more information on that.
+Please note, WebStorm has a 30 days trial so you have to pay for it after. Although if you are a student, its free. Here is the <a href="https://www.jetbrains.com/student/" target="_blank">link</a> to more information on that.
 
 ## Browser:
 Again any modern browser should work but in order to replicate everything that I'm doing, please install Google Chrome:
