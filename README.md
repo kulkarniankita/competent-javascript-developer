@@ -27,7 +27,7 @@ There you go, you have Node.js installed. NVM makes it really easy to manage pac
 ### Windows
 Use the installer on the [NodeJS Site](https://nodejs.org/en/download/){:target="_blank"} since `nvm` is not officially maintained for windows.
 
-## Pick your own editor:
+### Pick your own editor:
 Any text editor will work. The most popular editors/IDEs typically used are:
 
 [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"}
