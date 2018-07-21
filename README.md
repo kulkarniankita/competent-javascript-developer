@@ -1,9 +1,9 @@
 The instructions for Mac and Windows are different.
 
-## Node.js:
+## :rocket:Node.js:
 You should install Node using `nvm` as it will help a lot to manage your node versions. NVM stands for node version manager. It will make your life really easy to install and switch between different node versions.
 
-### Mac OS X:
+### :apple: Mac OS X:
 Install Xcode or the 
 <a href="http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/" target="_blank">Command Line Tools</a>
 
@@ -24,10 +24,10 @@ node --version # prints 8.6.0 and you are all set
 
 There you go, you have Node.js installed. NVM makes it really easy to manage packages.
 
-### Windows
+### :checkered_flag:Windows
 Use the installer on the <a href="https://nodejs.org/en/download/" target="_blank">NodeJS Site</a> since `nvm` is not officially maintained for windows.
 
-## Pick your own editor:
+## :memo:Pick your own editor:
 Any text editor will work. The most popular editors/IDEs typically used are:
 
 <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code</a>
